@@ -1,8 +1,8 @@
 {
   "sdk": "RHSecuritySDK",
-  "version": "1.0.27",
+  "version": "1.0.28",
   "channel": "release",
-  "source_commit": "f887d9018076983a7ae80d16597cc52a09e36ee7",
-  "pipeline_url": "https://gitlab.saurus.com/rewireholding/ios-sdk-rhsecurity-rewireholding/-/pipelines/19239",
-  "published_at_utc": "2026-03-20T21:15:43Z"
+  "source_commit": "29dea51178088b44ac14692e4c063a694970746b",
+  "pipeline_url": "https://gitlab.saurus.com/rewireholding/ios-sdk-rhsecurity-rewireholding/-/pipelines/19240",
+  "published_at_utc": "2026-03-20T21:20:50Z"
 }
