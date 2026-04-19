@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RHSecuritySDK",
-            url: "https://rewireholding-rhsecurity-release.s3.amazonaws.com/release/ios/archive/1.0.35/RHSecuritySDK-1.0.35.protected.xcframework.zip",
-            checksum: "e363cea725942dd5d8b383618af23d3142cdb2271a172ebfb7b423233553d859"
+            url: "https://rewireholding-rhsecurity-release.s3.amazonaws.com/release/ios/archive/1.1.0/RHSecuritySDK-1.1.0.protected.xcframework.zip",
+            checksum: "89267792e17a274caddf1e9fddf69add1bb8bf6498cfe9211be2ed792b3fdabe"
         )
     ]
 )
